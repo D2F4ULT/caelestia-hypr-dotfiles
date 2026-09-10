@@ -1,0 +1,5 @@
+scheme/current.lua
+scheme/current.conf
+hyprland.conf
+*.conf.save
+.DS_Store
